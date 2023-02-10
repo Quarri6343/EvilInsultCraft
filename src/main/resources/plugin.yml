@@ -1,0 +1,4 @@
+name: EvilInsultCraft
+version: '${version}'
+main: quarri6343.evilinsultcraft.EvilInsultCraft
+api-version: 1.16
